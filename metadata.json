@@ -1,0 +1,8 @@
+
+{
+  "name": "Aris AI Doctor",
+  "description": "A real-time AI medical consultant using Gemini Live API with low-latency voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
